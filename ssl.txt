@@ -1,0 +1,30 @@
+NAMA
+  |__ secure socket layer(ssl)
+
+FUNGSI
+  |__ Untuk memberikan tingkat keamanan data yang tinggi, SSL bekerja dengan cara
+   mengenkripsi seluruh data yang dikirim dari web browser menuju website. Seluruh
+   data dari pengunjung website, aktivitas pengiriman email, hingga transaksi
+   secara online, akan dienkripsi sehingga sulit dibaca dan diterjemahkan oleh
+   hacker. SSL bekerja melalui tiga tahapan; handshake protocol, record protocol,
+   dan alert protocol.
+
+Handshake protocol
+
+   Pada tahap ini hubungan antar client dan server atau web browser dan website,
+   mulai dibangun. Client akan membangun koneksi awal melalui akses yang terdapat
+   pada sertifikat SSL.
+
+record protocol
+
+   Setelah client dan server terhubung, seluruh data yang masuk akan langsung
+   terenkripsi oleh sistem. Kemudian server akan melakukan pengecekan dan
+   konfigurasi data. Jika server dinilai aman, maka server akan memberikan public
+   key yang berfungsi untuk mengenkripsi data yang akan dikirim kepada client.
+
+Alert protocol
+
+   Pada tahapan ini SSL akan memberikan tanda pada data yang dinilai mencurigakan
+   dan tidak aman. Biasanya, ditandai dengan “Not Secure” pada laman website.
+   Sebaliknya, jika website dinilai aman, maka pengunjung dapat mengakses website
+   yang dimiliki tanpa adanya peringatan apapun.

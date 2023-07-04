@@ -1,0 +1,6 @@
+NAMA
+  |__ hypertext transfer protocol(http)
+
+FUNGSI
+  |__ proses komunikasi web server dan perangkat client lewat url. untuk mentransfer
+permintaan dari client berupa text, gambar, atau pun video.

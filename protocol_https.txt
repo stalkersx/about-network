@@ -1,0 +1,6 @@
+NAMA
+  |__ hypertext transfer protocol secure(https)
+
+FUNGSI
+  |__ sama seperti http namun https transfer data dengan mengeksripsi terlebih 
+dahulu agar mengamankan data dari cybercrime dalam lalu lintas jaringan.

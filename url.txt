@@ -1,0 +1,12 @@
+NAMA
+  |__ unifrom resource locator(url)
+
+FUNGSI
+  |__ alamat web yang mengarah ke website, halaman web, atau dokumen tertentu di
+internet sebagai permintaan dari client ke server.
+
+SYNTX URL
+  |__ http://subdomain.nama-domain.ekstensi-domain/path-ke-resource?parameter
+
+CONTOH
+  |__ https://www.google.com/
