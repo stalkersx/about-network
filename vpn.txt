@@ -1,0 +1,21 @@
+NAMA
+  |__ virtual private network (vpn).
+
+ARTI
+  |__ membangun koneksi digital antara jaringan yang anda gunakan
+dan komputer server jarak jauh penyedia vpn, jika vpn-server berada
+di luar negara, jaringan komputer negara tersebut yang anda gunakan.
+
+FUNGSI
+  |__ mengenkripsi lalu lintas data, menyembunyikan alamat ip,
+dapat akses situs web yang terblokir dinegara anda tergantung
+penyedia layanan vpn.
+
+CARA KERJA
+  |__ mengubah jalur koneksi client-server misal vpn-client di
+indonesia dan vpn-server di amerika, maka jaringan yang gunakan
+adalah jaringan yang berada diserver amerika.
+
+PERBEDAAN KERJA JARINGAN :
+- vpn : user_device -> vpn-client -> isp -> vpn-server -> internet
+- no vpn : user_device -> isp -> internet
