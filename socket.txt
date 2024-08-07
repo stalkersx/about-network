@@ -1,0 +1,13 @@
+NAMA
+
+ARTI/FUNGSI
+  |__  adalah mekanisme komunikasi untuk pertukaran data antar aplikasi yang terdapat di dalam sebuah mesin maupun beda mesin dan pertukaran ini terjadi pada sebuah jaringan komputer.
+  
+TYPE TCP
+  |__ TCP Socket : menggunakan konsep connection oriented dan reliable data transfer sehingga aplikasi yang dibangun dengan TCP Socket tidak mempedulikan lama waktu sebuah pengiriman data akan tetapi sangat mementingkan ketepatan data. Konsep connection oriented adalah suatu proses pengiriman data disertai dengan tanggung jawab sehingga ketika data sampai pada tujuan akan ada pemberitahuan atau jika terjadi kesalahan pada saat pengiriman data maka data tersebut akan dikirim kembali ke tujuannya. Konsep reliable data transfer adalah sebuah proses pengiriman data dengan menggunakan nomor urut sehingga pada saat diterima, data akan tersusun berdasarkan nomor urut tersebut.
+  
+TYPE UDP
+  |__ UDP Socket : menggunakan konsep connectionless oriented dan unreliable data transfer sehingga aplikasi yang dibangun dengan UDP Socket tidak mementingkan ketepatan data tetapi lebih mementingkan akan delay waktu pada saat proses pengiriman data. Konsep connectionless oriented adalah suatu proses pengiriman data tidak disertai dengan tanggung jawab sehingga jika terjadi kesalahan pada saat proses pengiriman maka data tersebut tidak akan dikirim ulang ke tujuan. Konsep unreliable data transfer adalah sebuah proses pengiriman data dalam bentuk datagram tanpa nomor urut.
+
+CONTOH
+  |__ mengirim data ke server web dan sebaliknya

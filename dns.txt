@@ -1,0 +1,11 @@
+NAMA
+  |__ domain name system (DNS)
+
+FUNGSI
+  |__  adalah sebagai jembatan yang menghubungkan dan juga menerjemahkan antara server dan juga pengguna komputer. memetakan nama domain ke alamat IP yang terkait. Hal tersebut memungkinkan perangkat untuk menemukan dan terhubung ke server web atau server lainnya melalui nama domain yang lebih mudah diingat daripada alamat IP numerik yang sulit diingat. dns dapat menyimpan informasi tentang domain dan alamat IP yang ke dalam cache. Tidak perlu mengingat susunan angka untuk membuka website, hanya tuliskan nama domainnya saja dan DNS lah yang akan membantu kamu untuk menemukan website tujuanmu.
+  
+TYPE
+  |__ pemetaan domain di ipv4 dan ipv6
+  
+CONTOH
+   |__ nama situs web, vpn, layanan cloud

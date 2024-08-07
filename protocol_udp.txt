@@ -1,0 +1,11 @@
+NAMA
+  |__ User Datagram Protocol (UDP)
+
+ARTI/FUNGSI
+  |__ adalah suatu protokol jaringan yang digunakan untuk mengirim paket data tanpa membangun koneksi terlebih dahulu, seperti pada Connection Oriented. Analogi dari User Datagram Protocol (UDP) adalah seperti pengiriman surat tanpa resi. Dalam hal ini, setiap paket data yang dikirimkan melalui UDP adalah seperti surat yang dikirimkan tanpa memastikan bahwa akan tiba pada tujuan dengan benar. Surat tersebut tidak memerlukan bukti pengiriman dan dengan cepat. Seperti pada UDP, data dapat diterima dengan cepat, tetapi tidak menjamin bahwa setiap paket data akan tiba pada tujuan dalam urutan yang benar dan tanpa kehilangan data.
+  
+TYPE PROTOCOL (without a handshake)
+  |__ dns, snmp, tftp
+  
+CONTOH
+  |__ aplications game, video streaming, audio streaming

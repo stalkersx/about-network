@@ -1,0 +1,11 @@
+NAMA
+   |__ Transmission Control Protocol (TCP) 
+ 
+ARTI/FUNGSI
+   |__ adalah suatu protokol jaringan yang digunakan untuk mengirim paket data dengan membangun koneksi terlebih dahulu, seperti pada Connection Oriented. TCP sering digunakan untuk aplikasi yang memerlukan keandalan data yang tinggi, seperti email dan file transfer. Analogi dari Transmission Control Protocol (TCP) adalah seperti pengiriman surat dengan resi. Dalam hal ini, setiap paket data yang dikirimkan melalui TCP adalah seperti surat yang dikirimkan dengan memastikan bahwa akan tiba pada tujuan dengan benar. Surat tersebut memerlukan bukti pengiriman dan penerimaan, seperti resi, untuk memastikan bahwa surat tersebut telah tiba pada tujuan dan diterima dengan benar. Seperti pada TCP, data dapat diterima dengan benar, urutan yang benar, dan tanpa kehilangan data.
+   
+TYPE PROTOCOL (handshake)
+  |__ http,https, ftp, smtp
+  
+CONTOH
+  |__ aplikasi pesan, email, web, transfer file
