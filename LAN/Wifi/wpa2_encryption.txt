@@ -1,0 +1,9 @@
+WPA2 (Protokol WiFi Protected Access II)
+  WPA2 adalah penerus untuk menggantikan WPA. Salah satu perubahan paling signifikan antara WPA dan WPA2 adalah penggunaan algoritma AES dan CCMP (Counter Cipher Mode with Block Chaining Message Authentication Code Protocol) sebagai pengganti TKIP. Hal inilah yang membuat WPA2 jadi protokol paling aman dibandingkan WPA dan WEP. ada dua versi WPA 2, yakni personal dan enterprise. Keduanya sama-sama menggunakan metode enkripsi yang kuat (AES-CCMP) untuk dapat mengamankan data yang dikirim secara nirkabel.
+
+WPA2 Personal
+   seperti pengguna rumahan dan bisnis kecil. Pada mode personal, konsepnya sederhana dan menggunakan konfigurasi PSK (Pre-Shared Key) untuk autentikasi. Selain itu, WPA2 Personal menggunakan satu kata sandi untuk semua penggunanya.
+
+WPA2 Enterprise
+  banyak sebagian besar digunakan oleh perusahaan besar. Metode ini tidak cocok untuk pengguna rumahan karena menggunakan username dan password unik untuk setiap penggunanya serta memerlukan server otentikasi RADIUS. Sehingga pengguna yang ingin memakai WiFi harus memiliki akses yang terhubung ke database terlebih dahulu.
+

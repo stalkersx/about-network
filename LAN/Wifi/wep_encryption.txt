@@ -1,0 +1,2 @@
+WEP (Protokol Wired Equivalent Privacy)
+  Ini tipe keamanan nirkabel pertama dan dianggap paling tidak aman dari semua protokol. Meski mudah diretas, WEP jadi yang paling banyak digunakan di dunia sampai sekarang. Alasan WEP masih digunakan biasanya karena masih menggunakan perangkat lama, administrator jaringan belum mengubah keamanan default jaringan, atau perangkat belum mendukung sistem keamanan lebih baru WPA.

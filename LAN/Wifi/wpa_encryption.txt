@@ -1,0 +1,2 @@
+WPA (Protokol WiFi Protected Access)
+  WPA hadir sebagai penerus WEP akibat kelemahan dari sistem tersebut. WPA didesain dengan komponen enkripsi Temporal Key Integrity Protocol (TKIP) yang kemudian digantikan oleh Advanced Encryption Standard (AES). Namun ternyata WPA masih mengadopsi beberapa fitur dari WEP, yang pada akhirnya membuat protokol ini dianggap juga tidak aman.
